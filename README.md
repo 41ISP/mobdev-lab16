@@ -2,7 +2,7 @@
 
 ## Цель
 
-Переписать существующее приложение из [mobdev-lab11](https://github.com/41ISP/mobdev-lab11) на TypeScript
+Переписать существующее приложение из [mobdev-lab11](https://github.com/41ISP/mobdev-lab11) на TypeScript с использованием паттерн дизайна [FSD](https://feature-sliced.design/)
 
 ## Алгоритм
 
